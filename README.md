@@ -1,5 +1,5 @@
-# Classify the yelp reviews
-Classify the yelp reviews/comments
+# Classify yelp reviews
+Classify Yelp round-10 reviews/comments
 
 
 # Basic Information:
@@ -16,17 +16,17 @@ Since there are about 1.6 million input comments, it takes a while to train the 
 
 All of the projects requires Python 2.7 or 3 I have Used python 3.0. The following Python libraries are also required:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-nltk
-Plotly
-Keras
+<li> NumPy
+<li> Pandas
+<li> Matplotlib
+<li> Scikit-learn
+<li> Nltk
+<li> Plotly
+<li> Keras
 
 # Word embeddings
-Glove
-word2vec
+<li> Glove
+<li> word2vec
 
 # Datasets are not included to this project due to size.
 
